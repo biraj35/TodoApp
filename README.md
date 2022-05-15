@@ -1,5 +1,4 @@
 # TodoApp
-<p>Todo App</p>
 
 ![about](https://user-images.githubusercontent.com/50353970/168483932-a7ee0795-00c8-4b80-83d2-16bf9f1cf080.png)
 ![addTask](https://user-images.githubusercontent.com/50353970/168483935-ddbc7b2d-b9bb-43aa-8175-487c200da41a.png)
