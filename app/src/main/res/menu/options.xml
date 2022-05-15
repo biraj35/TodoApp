@@ -8,6 +8,12 @@
         app:showAsAction="never" />
 
     <item
+        android:id="@+id/menu_email"
+        android:title="Email"
+        app:showAsAction="never" />
+
+    <item
+
         android:id="@+id/menu_exit"
         android:title="Exit"
         app:showAsAction="never" />

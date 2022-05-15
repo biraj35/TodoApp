@@ -3,10 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Biraj kachhapati/AndroidStudioProjects/TodoApp/app/src/main/res/layout/about.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Biraj kachhapati/AndroidStudioProjects/TodoApp/app/src/main/res/layout/activity_add_task.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Biraj kachhapati/AndroidStudioProjects/TodoApp/app/src/main/res/layout/fragment_task.xml" value="0.19021739130434784" />
         <entry key="..\:/Users/Biraj kachhapati/AndroidStudioProjects/TodoApp/app/src/main/res/layout/fragment_task_detail.xml" value="0.19021739130434784" />
         <entry key="..\:/Users/Biraj kachhapati/AndroidStudioProjects/TodoApp/app/src/main/res/layout/task_item.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/Biraj kachhapati/AndroidStudioProjects/TodoApp/app/src/main/res/menu/options.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Biraj kachhapati/Downloads/TodoApp-master/TodoApp-master/app/src/main/res/layout/about.xml" value="0.2" />
         <entry key="..\:/Users/Biraj kachhapati/Downloads/TodoApp-master/TodoApp-master/app/src/main/res/layout/activity_add_task.xml" value="0.2" />
         <entry key="..\:/Users/Biraj kachhapati/Downloads/TodoApp-master/TodoApp-master/app/src/main/res/layout/fragment_task.xml" value="0.2" />

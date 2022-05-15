@@ -3,6 +3,7 @@ package com.example.todoapp;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -41,6 +42,16 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case R.id.menu_exit:
                 finish();
+                break;
+            case R.id.menu_email:
+                final Intent intent = new Intent(Intent.ACTION_VIEW)
+                        .setType("plain/text")
+                        .setData(Uri.parse("kachhapatibiraj@gmail.com"))
+                        .setClassName("com.google.android.gm", "com.google.android.gm.ComposeActivityGmail")
+                        .putExtra(Intent.EXTRA_EMAIL, new String[]{"kachhapatibiraj@gmail.com"})
+                        .putExtra(Intent.EXTRA_SUBJECT, "test")
+                        .putExtra(Intent.EXTRA_TEXT, "hello. this is a message sent from my demo app :-)");
+                startActivity(intent);
                 break;
         }
 
